@@ -30,7 +30,7 @@ If you have apache server you just create a class  with the  same logic you just
 
 ## Authors
 
-* **Roman Hrybinchuk** - *Development* - [WordPress](https://gist.github.com/Romucmadh)
+* **Roman Hrybinchuk** - *Development* - [GitHub](https://gist.github.com/Romucmadh)
 
 
 ## License
