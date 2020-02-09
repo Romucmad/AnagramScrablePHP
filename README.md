@@ -1,7 +1,7 @@
 # AnagramScrablePHP
 Anagram scrable api to get all scrable words
 
-You can see it running on - [PurpleBooth](https://wordenator.com/)
+You can see it running on - [WebSite](https://wordenator.com/)
 
 ## Getting Started
 This is anagram scrable algorithm implement in PHP.
@@ -32,7 +32,7 @@ If you have apache server you just create a class  with the  same logic you just
 
 ## Authors
 
-* **Roman Hrybinchuk** - *Initial work* - [PurpleBooth](https://gist.github.com/Romucmadh)
+* **Roman Hrybinchuk** - *Initial work* - [WordPress](https://gist.github.com/Romucmadh)
 
 
 ## License
