@@ -11,10 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-WordPress,
-Apache2server
-```
+WordPress or Apache2server
+
 
 ### Installing
 
@@ -32,9 +30,9 @@ If you have apache server you just create a class  with the  same logic you just
 
 ## Authors
 
-* **Roman Hrybinchuk** - *Initial work* - [WordPress](https://gist.github.com/Romucmadh)
+* **Roman Hrybinchuk** - *Development* - [WordPress](https://gist.github.com/Romucmadh)
 
 
 ## License
 
-This project is licensed to https://wordenator.com/ -
+This project is licensed to https://wordenator.com/ 
